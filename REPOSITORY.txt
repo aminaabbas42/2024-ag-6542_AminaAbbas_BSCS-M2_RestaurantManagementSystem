@@ -1,0 +1,35 @@
+================================================================
+  GIT REPOSITORY — Restaurant Management System
+  Visual Programming (CS-412) Semester Project
+================================================================
+
+IMPORTANT: Upload this project to GitHub before submission
+and paste your actual URL below.
+
+Steps to push to GitHub:
+------------------------------------------------
+1. Create a new repository on https://github.com
+   Name: RestaurantManagementSystem
+   Visibility: Public
+
+2. Open terminal/PowerShell in the project folder and run:
+
+   git remote add origin https://github.com/YOUR_USERNAME/RestaurantManagementSystem.git
+   git branch -M main
+   git push -u origin main
+
+3. Replace the placeholder URL below with your actual link.
+
+YOUR REPOSITORY URL:
+   https://github.com/YOUR_USERNAME/RestaurantManagementSystem
+
+================================================================
+Commit History Summary (7 commits):
+  1. Initial commit: project structure and solution setup
+  2. feat: add DatabaseHelper with SQLite schema, seed data, and Models
+  3. feat: implement Login form with role-based auth and MainDashboard navigation
+  4. feat: add Orders module - list, new POS order form, and order details
+  5. feat: add Menu management with CRUD and Home dashboard with stats
+  6. feat: add Tables, Payments, Inventory, Reports, and Users modules
+  7. docs: add README with setup instructions and default credentials
+================================================================
