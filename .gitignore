@@ -1,0 +1,19 @@
+# Build output
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# SQLite database (exclude from repo - use migration script)
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Publish output
+publish/
+*.zip
