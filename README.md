@@ -1,9 +1,9 @@
-# 🍽 Restaurant Management System
+#  Restaurant Management System
 ### C# Windows Forms | SQLite Database | .NET 8
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 RestaurantManagementSystem/
@@ -27,7 +27,7 @@ RestaurantManagementSystem/
 
 ---
 
-## 🚀 Setup in Visual Studio
+##  Setup in Visual Studio
 
 ### Prerequisites
 - Visual Studio 2022 (Community or higher)
@@ -50,7 +50,7 @@ RestaurantManagementSystem/
 
 ---
 
-## 🔑 Default Login Credentials
+##  Default Login Credentials
 
 | Role     | Username  | Password    |
 |----------|-----------|-------------|
@@ -78,7 +78,7 @@ The database `RestaurantDB.sqlite` is created automatically in the same folder a
 
 ---
 
-## 🖥 Features
+##  Features
 
 ### Frontend
 - **Dark-themed login** with credential validation
@@ -96,17 +96,17 @@ The database `RestaurantDB.sqlite` is created automatically in the same folder a
 - **SQLite transactions** for data integrity
 
 ### Modules
-1. 📋 **Orders** – Create, view, cancel orders
-2. 🍕 **Menu** – Add/edit/delete items, toggle availability
-3. 🪑 **Tables** – Visual floor plan, status management
-4. 💳 **Payments** – Process payments (Cash/Card/Mobile)
-5. 📦 **Inventory** – Stock management with low-stock alerts
-6. 📊 **Reports** – Sales, revenue, top items, payment methods
-7. 👥 **Users** – (Admin only) Staff account management
+1.  **Orders** – Create, view, cancel orders
+2.  **Menu** – Add/edit/delete items, toggle availability
+3.  **Tables** – Visual floor plan, status management
+4.  **Payments** – Process payments (Cash/Card/Mobile)
+5.  **Inventory** – Stock management with low-stock alerts
+6.  **Reports** – Sales, revenue, top items, payment methods
+7.  **Users** – (Admin only) Staff account management
 
 ---
 
-## 🛠 Technologies
+##  Technologies
 
 - **Language**: C# 12
 - **Framework**: .NET 8 Windows Forms
@@ -116,7 +116,7 @@ The database `RestaurantDB.sqlite` is created automatically in the same folder a
 
 ---
 
-## 📦 NuGet Packages
+##  NuGet Packages
 
 ```xml
 <PackageReference Include="System.Data.SQLite" Version="1.0.118" />
