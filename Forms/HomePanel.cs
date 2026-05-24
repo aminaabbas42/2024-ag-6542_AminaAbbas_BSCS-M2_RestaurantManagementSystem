@@ -131,7 +131,7 @@ namespace RestaurantManagementSystem
             panel.Controls.AddRange(new Control[] { lIcon, lTitle, valueLabel, lSub });
             return panel;
         }
-
+          //try and catch
         private void LoadStats()
         {
             try
