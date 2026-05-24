@@ -17,7 +17,7 @@ Before running the project, make sure the following software is installed:
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/aminaabbas42/CS-412project.git
+https://github.com/aminaabbas42/2024-ag-6542_AminaAbbas_BSCS-M2_RestaurantManagementSystem.git
 ```
 Push Project to GitHub
 
