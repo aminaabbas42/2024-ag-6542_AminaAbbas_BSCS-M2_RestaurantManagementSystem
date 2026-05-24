@@ -1,0 +1,86 @@
+https://github.com/aminaabbas42/2024-ag-6542_AminaAbbas_BSCS-M2_RestaurantManagementSystem/
+# Installation Guide
+
+## Requirements
+
+Before running the project, make sure the following software is installed:
+
+* Visual Studio 2022
+* SQL Server
+* SQL Server Management Studio (SSMS)
+* .NET SDK
+
+---
+
+## Steps to Run the Project
+
+### 1. Clone the Repository
+
+```bash
+https://github.com/aminaabbas42/CS-412project.git
+```
+Push Project to GitHub
+
+Run:
+
+git branch -M main
+
+Then:
+
+git push -u origin main
+
+GitHub may ask for login authentication.
+
+After successful upload, refresh your GitHub repository page.
+
+Your project will appear online.
+
+# Add README File
+Open your README.md
+Paste the README content I created
+Save the file
+
+Then upload changes:
+
+git add README.md
+git commit -m "Added project README"
+git push
+### 2. Open Project
+
+* Open Visual Studio 2022
+* Click on "Open Project"
+* Select the project solution file (.sln)
+
+### 3. Configure Database
+
+* Open SQL Server Management Studio
+* Create the database
+* Import the SQL file
+* Update connection string in the project
+
+### 4. Run the Application
+
+* Build the project
+* Press `F5` to run the application
+
+---
+
+# Project Structure
+
+```text
+RestaurantManagementSystem/
+│
+├── Database/
+├── Forms/
+├── Models/
+├── Services/
+├── Resources/
+├── Images/
+├── SQL/
+├── bin/
+├── obj/
+└── README.md
+```
+
+---
+
